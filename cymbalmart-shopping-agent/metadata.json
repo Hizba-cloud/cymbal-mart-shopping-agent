@@ -1,0 +1,8 @@
+{
+  "name": "CymbalMart Shopping Agent",
+  "description": "Smart party planning and grocery shopping agent for CymbalMart. Converts party intent, themes, guest counts, and special dietary requests into a curated, budget-aligned shopping list with store aisle routing, recipe batching, and 1-click fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
